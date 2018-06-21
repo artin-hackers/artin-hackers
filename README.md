@@ -2,6 +2,16 @@
 
 Zatím zde bude seznam témat a brainstorming projektů, které by mohly být zajímavé. (Editovat se dá rovnou v GitHubu.)
 
+## Miniprojekty a levely
+Co kdybychom udělali nějaký odborný postup - něco jako jsou barvy pásků v karate? Mohli bychom mít sadu miniprojektů (10-20) a účastníci by je mohli průběžně plnit a odevzdávat. Za splnění určitého počtu by byl další level (barva) a mohli by třeba mít tričko dané barvy s logem ARTIN hackers? To, kdy a v jakém pořadí miniprojekty budou řešit by bylo na nich. A nejvyšší level by byl splnění všech miniprojektů + dotažení nějakého vlastního většího projektu do konce.
+Miniprojekty si představuju od nejjednodušších až po složitější - něco od všeho, hodně základy a abstraktní datové typy, obj. programování, dál třeba i něco z Minecraftu, 3D tisku, ... 
+Např:
+* Seřaď pole čísel bez využití hotových řadicích metod 
+* Vypiš listy stromu
+* Vytvoř třídu implementující frontu/zásobník
+* Udělej mod do Minecraftu, který umí ... 
+* Vytvoř a vytiskni něco definovaného na 3D tiskárně
+
 ## Minecraft
 
 ### Projekty
