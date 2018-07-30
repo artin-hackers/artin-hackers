@@ -51,6 +51,7 @@ Zatím sepsány projekty vyzkoušené v Lužánkách.
 * stavba budovy bavila jen někoho, zbraně bavily všechny, hra po síti taky (překvapivě...)
 * Microsoft vytvořil [MakeCode for Minecraft](https://minecraft.makecode.com/), což bychom možná mohli aspoň prozkoumat
 * co využít Kotlin místo Javy? Je tam míň závorek a kód je jednodušší, zároveň se dá použít cokoli z Javy. Nevýhody jsou, že to neumíme úplně na 100% a nedají se použít všechny návyky z Javy, co by kluci už mohli mít.
+* aplikace s kurzy pro programování na mobilu MIMO https://getmimo.com/
 
 
 ## Lego
