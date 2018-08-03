@@ -13,9 +13,11 @@ Cesta Hackera - jednotlivé cesty:
 * 3D Tisk
     * Vytvoř a vytiskni něco definovaného na 3D tiskárně
 * Počítač a operační systém
+* Mobilní vývoj
+* Šifrování
+* Umělá inteligence
 * Vlastní projekt
 
-Např:
 
  
 
