@@ -10,9 +10,9 @@ Cesta Hackera - jednotlivé cesty:
 * Minecraft vývoj
 * Robotika
 * Algoritmy
-** Seřaď pole čísel bez využití hotových řadicích metod 
-** Vypiš listy stromu
-** Vytvoř třídu implementující frontu/zásobník
+ * Seřaď pole čísel bez využití hotových řadicích metod 
+ * Vypiš listy stromu
+ * Vytvoř třídu implementující frontu/zásobník
 * 3D Tisk
 * Počítač a operační systém
 * Vlastní projekt
