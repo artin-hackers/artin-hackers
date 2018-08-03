@@ -10,21 +10,19 @@ Cesta Hackera - jednotlivé cesty:
 * Minecraft vývoj
 * Robotika
 * Algoritmy
-    * Seřaď pole čísel bez využití hotových řadicích metod 
-    * Vypiš listy stromu
-    * Vytvoř třídu implementující frontu/zásobník
 * 3D Tisk
+    * Vytvoř a vytiskni něco definovaného na 3D tiskárně
 * Počítač a operační systém
 * Vlastní projekt
 
 Např:
 
-* Udělej mod do Minecraftu, který umí ... 
-* Vytvoř a vytiskni něco definovaného na 3D tiskárně
+ 
 
-## Minecraft
 
-### Projekty
+## Minecraft vývoj
+
+### Miniprojekty
 
 Zatím sepsány projekty vyzkoušené v Lužánkách.
 * tvorba moba
@@ -54,8 +52,25 @@ Zatím sepsány projekty vyzkoušené v Lužánkách.
   * spojení přes IP adresu (jak zjistit IP adresu)
   * tvorba arény v creative modu
   * vlastní pravidla, příkazy atd.
+
+## Robotika
+TODO Tom O. (Lego Mindstorms, Arduino)
+
+## Algoritmy
+TODO Tom O.
+* Seřaď pole čísel bez využití hotových řadicích metod 
+* Vypiš listy stromu
+* Vytvoř třídu implementující frontu/zásobník
   
-  
+## 3D Tisk
+TODO Tom O.
+
+## Počítač a OS
+TODO Zdeněk
+
+## Vlastní projekt
+TODO Hacker
+
 ### Poznámky a zkušenosti
 * první hodina musí být záživná. A pokračování pak ideálně taky. My jsme začali tvorbou zombie, což bylo dost zajímavé. Jen jsme předtím hrozně dlouho rozcházeli projekt, což až tak super nebylo. Minimálně to rozchození projektu už budeme umět líp.
 * stavba budovy bavila jen někoho, zbraně bavily všechny, hra po síti taky (překvapivě...)
@@ -64,5 +79,3 @@ Zatím sepsány projekty vyzkoušené v Lužánkách.
 * aplikace s kurzy pro programování na mobilu MIMO https://getmimo.com/
 
 
-## Lego
-TODO
