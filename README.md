@@ -56,7 +56,23 @@ Zatím sepsány projekty vyzkoušené v Lužánkách.
   * vlastní pravidla, příkazy atd.
 
 ## Robotika
-TODO Tom O. (Lego Mindstorms, Arduino)
+### LEGO EV3 (https://www.robotworld.cz/downloads/manual-lego-mindstorms-ev3-cs.pdf) 
+* Postav jeden ze standardních projektů EV3 (vyber si), zprovozni vývojové prostředí Lego Mindstorms EV3 a nahrej standardní program do robota
+* Vytvoř program, který bude simulovat hrací kostku – stiskem tlačítka / dotykového senzoru provede další hod, hody zobrazí na displeji graficky (jako na kostce) ne číslicí
+* Udělej program, který bude mluvit. Na displeji bude mít oči a ústa a bude přehrávat některé připravené tebou namluvené věty, mezi nimi náhodná mezera 2-6 sekund. Při mluvení bude „hýbat pusou“ na displeji.
+* Udělej program, který přehraje nějakou krátkou známou melodii (využij tónový generátor EV3, nikoli nahraný mp3 zvuk) a přitom bude blikat světýlky na kostce (barevná hudba)
+* Udělej pojízdného robota a projeď s ním pevně definovanou trasu (trasa bude stanovena ohraničením, nebude možné je však detekovat senzory)
+* Udělej pojízdného robota a nauč ho sledovat čáru (linefollower) s využitím dostupných senzorů (doporučený je color detection sensor)
+* Udělej pojízdného robota a nauč ho jet podél zdi / mantinelu s využitím dostupných senzorů (doporučený je IR proximity sensor)
+* Udělej pojízdného robota, který bude jezdit po místnosti a bude se vyhýbat překážkám (podobně jako to dělá robotický vysavač) – doporučený je IR senzor a dotykové senzory
+* Udělej pojízdného (nebo něco jiného vykonávajícího) robota a ovládej ho na dálku telefonem
+* Udělej pojízdného robota, který si zapamatuje trasu, kterou projede s dálkovým ovládáním pomocí telefonu, a poté ji přesně zopakuje.
+* Udělej robota a zúčastni se s ním některé ze soutěží (Robotiáda, Robotic day, …)
+
+Poznámky: u pojízdných robotů nezapomeňte na STOP tlačítko
+
+### ARDUINO
+(TODO T.O.)
 
 ## Algoritmy
 TODO Tom O.
