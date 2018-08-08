@@ -5,31 +5,26 @@ Být ARTIN Hackerem není jednoduchý, ale nemusí to být ani zas tak těžký.
 Bude to tvrdý, ale když to zvládneš, bude to stát za to.
 
 Parametry:
-Kdy: každý pondělí 16-18 (Začínáme 13.8.2018)
-Kde: ARTIN, Mojmírovo nám. 11, Brno
-Základní princip: Chceme ty, kteří chtějí opravdu programovat a jde jim to. Když už nemůžeš, pomůžeme, když neumíš, naučíme, když nechceš, nepotřebujeme. Když to fakt nepůjde, nebudeme to hrotit, prostě půjdeš jinam a zkusíš něco jinýho - svět nění jen o programování.
-Lektoři: Zdeněk Němec, Ondra Budai, Tom Ondráček, Tom Masník, Ron Luc
-Cena: Zdarma – nechceme po Tobě peníze, chceme abys měl opravdovej zájem a nějaké ty schopnosti
-Počítač: jestli máš vlastní notebook, vezmi si jej s sebou, jestli nemáš, půjčíme
+* Kdy: každý pondělí 16-18 (Začínáme 13.8.2018)
+* Kde: ARTIN, Mojmírovo nám. 11, Brno
+* Základní princip: Chceme ty, kteří chtějí opravdu programovat a jde jim to. Když už nemůžeš, pomůžeme, když neumíš, naučíme, když nechceš, nepotřebujeme. Když to fakt nepůjde, nebudeme to hrotit, prostě půjdeš jinam a zkusíš něco jinýho - svět nění jen o programování.
+* Lektoři: Zdeněk Němec, Ondra Budai, Tom Ondráček, Tom Masník, Ron Luc
+* Cena: Zdarma – nechceme po Tobě peníze, chceme abys měl opravdovej zájem a nějaké ty schopnosti
+* Počítač: jestli máš vlastní notebook, vezmi si jej s sebou, jestli nemáš, půjčíme
 
 ## Miniprojekty a levely
-Co kdybychom udělali nějaký odborný postup - něco jako jsou barvy pásků v karate? Mohli bychom mít sadu miniprojektů (10-20) a účastníci by je mohli průběžně plnit a odevzdávat. Za splnění určitého počtu by byl další level (barva) a mohli by třeba mít tričko dané barvy s logem ARTIN hackers? To, kdy a v jakém pořadí miniprojekty budou řešit by bylo na nich. A nejvyšší level by byl splnění všech miniprojektů + dotažení nějakého vlastního většího projektu do konce.
-Miniprojekty si představuju od nejjednodušších až po složitější - něco od všeho, hodně základy a abstraktní datové typy, obj. programování, dál třeba i něco z Minecraftu, 3D tisku, ... 
+ARTIN Hackers je cesta, dokonce hned několik cest, které vedou do různých oblastí, se kterými se můžeš seznámit. V každé oblasti jsou miniprojekty a po jejich splnění a odevzdání získáš Cestu Hackera pro tuto oblast. Ten, kdo získá všechny, se dostane na nejvyšší Level. A dál ... dál už to bude jen na něm ... může to všechno nechat být ... nebo jít a změnit svět.
 
 Cesta Hackera - jednotlivé cesty:
 * Minecraft vývoj
 * Robotika
 * Algoritmy
 * 3D Tisk
-    * Vytvoř a vytiskni něco definovaného na 3D tiskárně
 * Počítač a operační systém
 * Mobilní vývoj
 * Šifrování
 * Umělá inteligence
 * Vlastní projekt
-
-
- 
 
 
 ## Minecraft vývoj
@@ -110,13 +105,9 @@ TODO Tom O. - bude upřesněno
 TODO Zdeněk
 
 ## Vlastní projekt
-TODO Hacker
+Vymysli a realizuj svůj vlastní cool projekt, dohodni se s někým z lektorů, co to bude a jak to uděláš. Zúčastni se s ním nějaké soutěže nebo ho uplatni přímo v praxi. Fantazii se meze nekladou.
 
 ### Poznámky a zkušenosti
-* první hodina musí být záživná. A pokračování pak ideálně taky. My jsme začali tvorbou zombie, což bylo dost zajímavé. Jen jsme předtím hrozně dlouho rozcházeli projekt, což až tak super nebylo. Minimálně to rozchození projektu už budeme umět líp.
-* stavba budovy bavila jen někoho, zbraně bavily všechny, hra po síti taky (překvapivě...)
-* Microsoft vytvořil [MakeCode for Minecraft](https://minecraft.makecode.com/), což bychom možná mohli aspoň prozkoumat
-* co využít Kotlin místo Javy? Je tam míň závorek a kód je jednodušší, zároveň se dá použít cokoli z Javy. Nevýhody jsou, že to neumíme úplně na 100% a nedají se použít všechny návyky z Javy, co by kluci už mohli mít.
 * aplikace s kurzy pro programování na mobilu MIMO https://getmimo.com/
 
 
