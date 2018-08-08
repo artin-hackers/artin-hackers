@@ -1,6 +1,16 @@
 # Artin Hackers rozcestník
 
-Zatím zde bude seznam témat a brainstorming projektů, které by mohly být zajímavé. (Editovat se dá rovnou v GitHubu.)
+ARTIN Hackers není kroužek, není to ani příležitost zabít volnej čas pařením her. ARTIN Hackers je cesta. Cesta k tomu stát se fakt dobrým IT týpkem, kterej opravdu rozumí počítačům a programům, nejde po povrchu, ví, co se děje uvnitř a hledá další možnosti, jak z toho všeho dostat ještě víc!
+Být ARTIN Hackerem není jednoduchý, ale nemusí to být ani zas tak těžký. Nejdůležitější je jediná věc - musíš opravdu chtít a vědět, že za každým chováním počítače, ať už chtěným nebo nechtěným, je schovaný nějaký jeho řádek kódu. Magie v tomhle světě neexistuje.
+Bude to tvrdý, ale když to zvládneš, bude to stát za to.
+
+Parametry:
+Kdy: každý pondělí 16-18 (Začínáme 13.8.2018)
+Kde: ARTIN, Mojmírovo nám. 11, Brno
+Základní princip: Chceme ty, kteří chtějí opravdu programovat a jde jim to. Když už nemůžeš, pomůžeme, když neumíš, naučíme, když nechceš, nepotřebujeme. Když to fakt nepůjde, nebudeme to hrotit, prostě půjdeš jinam a zkusíš něco jinýho - svět nění jen o programování.
+Lektoři: Zdeněk Němec, Ondra Budai, Tom Ondráček, Tom Masník, Ron Luc
+Cena: Zdarma – nechceme po Tobě peníze, chceme abys měl opravdovej zájem a nějaké ty schopnosti
+Počítač: jestli máš vlastní notebook, vezmi si jej s sebou, jestli nemáš, půjčíme
 
 ## Miniprojekty a levely
 Co kdybychom udělali nějaký odborný postup - něco jako jsou barvy pásků v karate? Mohli bychom mít sadu miniprojektů (10-20) a účastníci by je mohli průběžně plnit a odevzdávat. Za splnění určitého počtu by byl další level (barva) a mohli by třeba mít tričko dané barvy s logem ARTIN hackers? To, kdy a v jakém pořadí miniprojekty budou řešit by bylo na nich. A nejvyšší level by byl splnění všech miniprojektů + dotažení nějakého vlastního většího projektu do konce.
@@ -75,13 +85,26 @@ Poznámky: u pojízdných robotů nezapomeňte na STOP tlačítko
 (TODO T.O.)
 
 ## Algoritmy
-TODO Tom O.
-* Seřaď pole čísel bez využití hotových řadicích metod 
+TODO Tom O. - bude upřesněno
+* Proveď sloučení dvou seřazených polí o délce n tak, aby výsledkem bylo seřazené pole o délce 2n
+* Seřaď pole čísel bez využití hotových řadicích metod
 * Vypiš listy stromu
-* Vytvoř třídu implementující frontu/zásobník
+* Vytvoř třídy implementující frontu a zásobník
+* Vytvoř třídu implementující hash tabulku
+* Napiš program, který bude realizovat kvíz tj. bude dávat posluchači otázky se seznamu a vyžadovat správnou odpověď. Vyberte vhodné datové typy pro reprezentaci kvízových otázek
+* Práce se soubory
+* Thready
+
   
 ## 3D Tisk
-TODO Tom O.
+* Seznam se se zdrojem modelů https://www.thingiverse.com/ - najdi model matky a šroubu
+* Nauč se nakalibrovat a nastavit tiskárnu, projdi si menu tiskárny
+* Seznam se s nástroji na slicing (Slic3R) - zkus nastavit výšku vrstvy, teplotu a vytisknout předmět z předchozího úkolu s 2ma různými infily
+* Seznam se s modelovacími nástroji - vytvoř model židle nebo hrnku (zmenšený) a vytiskni - po dohodě možno domluvit i jiný model
+* Zkus vytisknout některý z předchozích modelů ve 3 různých materiálech (PLA / ABS / PET)
+* Vyzkoušej si přesný tisk s kalibrací - vytiskni dvě kostičky https://www.thingiverse.com/thing:377523 a pokus se přenastavit Slic3r tak, aby do sebe hezky přesně zapadly
+
+
 
 ## Počítač a OS
 TODO Zdeněk
