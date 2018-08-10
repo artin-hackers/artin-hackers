@@ -49,15 +49,19 @@ Cesta Hackera - jednotlivé cesty:
   * reakce na klik (reakce na události)
   * seslání fireballu (událost seslání fireballu)
 
-* statistiky
+* statistiky [T]
   * počítání smrtí (reakce na událost smrti, použití proměnné)
   * počítání smrtí per player (práce s mapou)
   * počítání dalších událostí per player (vlastní objekt počítadla)
 
-* aréna pro hru po síti
+* aréna pro hru po síti [T]
   * spojení přes IP adresu (jak zjistit IP adresu)
   * tvorba arény v creative modu
   * vlastní pravidla, příkazy atd.
+  
+* mob - robot - vytvoř moba, který bude plnit příkazy
+
+
 
 ## Robotika
 ### LEGO EV3 (https://www.robotworld.cz/downloads/manual-lego-mindstorms-ev3-cs.pdf) 
