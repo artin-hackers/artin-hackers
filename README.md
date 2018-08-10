@@ -12,7 +12,7 @@ Parametry:
 * Cena: Zdarma – nechceme po Tobě peníze, chceme abys měl opravdovej zájem a nějaké ty schopnosti
 * Počítač: jestli máš vlastní notebook, vezmi si jej s sebou, jestli nemáš, půjčíme
 
-## Miniprojekty a levely
+## Cesta Hackera - miniprojekty a levely
 ARTIN Hackers je cesta, dokonce hned několik cest, které vedou do různých oblastí, se kterými se můžeš seznámit. V každé oblasti jsou miniprojekty a po jejich splnění a odevzdání získáš Cestu Hackera pro tuto oblast. Ten, kdo získá všechny, se dostane na nejvyšší Level. A dál ... dál už to bude jen na něm ... může to všechno nechat být ... nebo jít a změnit svět.
 
 Cesta Hackera - jednotlivé cesty:
@@ -31,7 +31,6 @@ Cesta Hackera - jednotlivé cesty:
 
 ### Miniprojekty
 
-Zatím sepsány projekty vyzkoušené v Lužánkách.
 * tvorba moba
   * tvorba pluginu
   * reakce na příkaz
@@ -75,9 +74,6 @@ Zatím sepsány projekty vyzkoušené v Lužánkách.
 * Udělej robota a zúčastni se s ním některé ze soutěží (Robotiáda, Robotic day, …)
 
 Poznámky: u pojízdných robotů nezapomeňte na STOP tlačítko
-
-### ARDUINO
-(TODO T.O.)
 
 ## Algoritmy
 TODO Tom O. - bude upřesněno
