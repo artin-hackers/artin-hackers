@@ -100,9 +100,40 @@ TODO Tom O. - bude upřesněno
 * Vyzkoušej si přesný tisk s kalibrací - vytiskni dvě kostičky https://www.thingiverse.com/thing:377523 a pokus se přenastavit Slic3r tak, aby do sebe hezky přesně zapadly
 
 
-
 ## Počítač a OS
-TODO Zdeněk
+* HW
+    * Jak vypadá vnitřek počítače, k čemu co slouží (von Neuman), periferie
+    * Rozebereme stolní počítač, nebo notebook
+    * Základní deska, procesor, paměť, grafická/zvuková/síťová karta, zdroj, pevný disk, mechanika (?), chlazení
+    * Myš, klávecnice, monitor, reproduktory
+    * Navrhneme a postavíme si počítač (výběr a srovnání komponent, kompatibilita, montáž)
+* OS MS Windows
+    * Historie, princip a účel
+    * BFU: Průzkumník a file-manager (TC), Office programy, přehrávač, herní klient nebo ne (Steam, GOG, Battle.net, ...)
+    * Správce: ovladače, install/uninstall, správa uživatelů, oprávnění, čištění (defragmentace, smazání nepotřebných souborů)
+    * Vývojář: textové editory, kompilátory, vývojová prostředí, build
+* Windows server (?)
+* OS Unix/Linux
+    * Historie, princip a účel
+    * Command line nástroje: uživatel i správce
+    * Grafické rozhraní
+* MacOS (?)
+* Síťě
+    * Server vs. terminál/PC
+    * Router, switch, repeater
+    * Wire vs. wireless
+    * Konfigurace, WireShark
+    * Programy (chat)
+    * Sockety
+* Web
+    * Jak se dostat na internet (ping, ipconfig/ifconfig, DNS)
+    * Prohlížeče (srovnání, možnosti, performance/benchmark)
+    * Služby (jak efektivně vyhledávat, bezpečnost a soukromí na internetu, analýza e-mailů, komunikační nástroje)
+
+
+## Šifrování
+TODO Zdenek, pokud bude zájem
+
 
 ## Vlastní projekt
 Vymysli a realizuj svůj vlastní cool projekt, dohodni se s někým z lektorů, co to bude a jak to uděláš. Zúčastni se s ním nějaké soutěže nebo ho uplatni přímo v praxi. Fantazii se meze nekladou.
