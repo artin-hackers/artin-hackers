@@ -15,7 +15,7 @@ Jak si stáhnu a nastavím Git příkazovou řádku?
 Jak si stáhnu a nastavím projekt Minecraft
 1. Spustím "Git Bash"
 2. Pomocí "cd" se přepnu do adresáře, kde chci mít repozitář
-3. Naklonuji si repozitář `git clone git@github.com:artin-hackers/minecraft.git`
+3. Naklonuji si repozitář `git clone https://github.com/artin-hackers/minecraft.git`
 4. Vytvořím si svou vlastní větev (s vlastním jménem) `git checkout -b zdenek`
 5. Upravím soubor README.md (napíšu své jméno do souboru)
 6. Přidám změny do stage `git add -A`
