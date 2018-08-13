@@ -26,6 +26,8 @@ Cesta Hackera - jednotlivé cesty:
 * Umělá inteligence
 * Vlastní projekt
 
+## Nástroje
+* [Git](https://github.com/artin-hackers/artin-hackers/blob/master/git.md)
 
 ## [Minecraft vývoj](https://github.com/artin-hackers/minecraft)
 
