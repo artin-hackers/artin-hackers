@@ -27,7 +27,7 @@ Cesta Hackera - jednotlivé cesty:
 * Vlastní projekt
 
 
-## Minecraft vývoj
+## [Minecraft vývoj](https://github.com/artin-hackers/minecraft)
 
 ### Miniprojekty
 
