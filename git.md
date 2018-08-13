@@ -19,9 +19,10 @@ Jak si stáhnu a nastavím projekt Minecraft
 4. Přepnu se do nově vytvořené složky `cd minecraft`
 5. Vytvořím si svou vlastní větev (s vlastním jménem) `git checkout -b zdenek`
 6. Upravím soubor README.md (napíšu své jméno do souboru)
-7. Přidám změny do stage `git add -A`
-8. Připravím commit `git commit -m "Muj první commit"`
-9. Odešlu data na server `git push -u origin zdenek`
+7. Vyzkoušíme, že git zaregistroval změny `git status`
+8. Přidám změny do stage `git add -A`
+9. Připravím commit `git commit -m "Muj první commit"`
+10. Odešlu data na server `git push -u origin zdenek`
 
 ## Ovládání
 
