@@ -18,9 +18,9 @@ Jak si stáhnu a nastavím projekt Minecraft
 3. Naklonuji si repozitář `git clone git@github.com:artin-hackers/minecraft.git`
 4. Vytvořím si svou vlastní větev (s vlastním jménem) `git checkout -b zdenek`
 5. Upravím soubor README.md (napíšu své jméno do souboru)
-6. Přidám změny do stage 'git add -A'
-7. Připravím commit 'git commit -m "Muj první commit"'
-8. Odešlu data na server 'git push -u origin zdenek'
+6. Přidám změny do stage `git add -A`
+7. Připravím commit `git commit -m "Muj první commit"`
+8. Odešlu data na server `git push -u origin zdenek`
 
 ## Ovládání
 
