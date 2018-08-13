@@ -16,11 +16,12 @@ Jak si stáhnu a nastavím projekt Minecraft
 1. Spustím "Git Bash"
 2. Pomocí "cd" se přepnu do adresáře, kde chci mít repozitář
 3. Naklonuji si repozitář `git clone https://github.com/artin-hackers/minecraft.git`
-4. Vytvořím si svou vlastní větev (s vlastním jménem) `git checkout -b zdenek`
-5. Upravím soubor README.md (napíšu své jméno do souboru)
-6. Přidám změny do stage `git add -A`
-7. Připravím commit `git commit -m "Muj první commit"`
-8. Odešlu data na server `git push -u origin zdenek`
+4. Přepnu se do nově vytvořené složky `cd minecraft`
+5. Vytvořím si svou vlastní větev (s vlastním jménem) `git checkout -b zdenek`
+6. Upravím soubor README.md (napíšu své jméno do souboru)
+7. Přidám změny do stage `git add -A`
+8. Připravím commit `git commit -m "Muj první commit"`
+9. Odešlu data na server `git push -u origin zdenek`
 
 ## Ovládání
 
