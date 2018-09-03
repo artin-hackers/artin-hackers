@@ -25,6 +25,7 @@ Cesta Hackera - jednotlivé cesty:
 * Šifrování
 * Umělá inteligence
 * Vlastní projekt
+  * Aplikace pro drona
 
 ## Nástroje
 * [Git](https://github.com/artin-hackers/artin-hackers/blob/master/git.md)
